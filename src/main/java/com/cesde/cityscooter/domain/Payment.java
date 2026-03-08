@@ -48,6 +48,7 @@ public class Payment {
         isPayed = payed;
     }
 
+
     public void generateBill () {
     }
 
